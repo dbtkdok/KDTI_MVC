@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tiles-definitions PUBLIC
+       "-//Apache Software Foundation//DTD Tiles Configuration 2.0//EN"
+       "http://tiles.apache.org/dtds/tiles-config_2_0.dtd">
+       
+<tiles-definitions>
+	
+	<definition name="baseLayout"
+		template="/WEB-INF/views/common/layout.jsp">
+		<put-attribute name="title" value="레이아웃 페이지" />
+		<put-attribute name="header" value="/WEB-INF/views/common/header.jsp" />
+		<put-attribute name="body" value="" />
+	</definition>
+	
+	<definition name="baseLayout_none"
+		template="/WEB-INF/views/common/layout_none.jsp">
+		<put-attribute name="title" value="레이아웃 페이지" />
+		<put-attribute name="header" value="" />
+		<put-attribute name="body" value="" />
+	</definition>
+	
+	<definition name="/" extends="baseLayout">
+		<put-attribute name="title" value="KDTI" />
+		<put-attribute name="body" value="/WEB-INF/views/index.jsp" />
+	</definition>
+	
+	<definition name="index" extends="baseLayout">
+		<put-attribute name="title" value="KDTI - 메인페이지" />
+		<put-attribute name="body" value="/WEB-INF/views/index.jsp" />
+	</definition>
+	
+	<definition name="about" extends="baseLayout">
+		<put-attribute name="title" value="KDTI - 기관소개" />
+		<put-attribute name="body" value="/WEB-INF/views/about.jsp" />
+	</definition>
+	
+	<definition name="login" extends="baseLayout">
+		<put-attribute name="title" value="KDTI - 로그인" />
+		<put-attribute name="body" value="/WEB-INF/views/login.jsp" />
+	</definition>
+	
+	<definition name="notice" extends="baseLayout">
+		<put-attribute name="title" value="KDTI - 게시판" />
+		<put-attribute name="body" value="/WEB-INF/views/notice.jsp" />
+	</definition>
+	
+	<definition name="service" extends="baseLayout">
+		<put-attribute name="title" value="KDTI - 교육프로그램소개 " />
+		<put-attribute name="body" value="/WEB-INF/views/service.jsp" />
+	</definition>
+	
+	<definition name="notice_detail_No1272" extends="baseLayout">
+		<put-attribute name="title" value="KDTI - 게시판 상세" />
+		<put-attribute name="body" value="/WEB-INF/views/notice_detail_No1272.jsp" />
+	</definition>
+	
+	<definition name="notice_detail_No1285" extends="baseLayout">
+		<put-attribute name="title" value="KDTI - 게시판 상세" />
+		<put-attribute name="body" value="/WEB-INF/views/notice_detail_No1285.jsp" />
+	</definition>
+	
+	<definition name="notice_detail_No1286" extends="baseLayout">
+		<put-attribute name="title" value="KDTI - 게시판 상세" />
+		<put-attribute name="body" value="/WEB-INF/views/notice_detail_No1286.jsp" />
+	</definition>
+	
+	<definition name="notice_detail_No1287" extends="baseLayout">
+		<put-attribute name="title" value="KDTI - 게시판 상세" />
+		<put-attribute name="body" value="/WEB-INF/views/notice_detail_No1287.jsp" />
+	</definition>
+	
+	<definition name="pado_dears_msg" extends="baseLayout_none">
+		<put-attribute name="title" value="Dear..." />
+		<put-attribute name="body" value="/WEB-INF/views/pado_dears_msg.jsp" />
+	</definition>
+	
+</tiles-definitions>
