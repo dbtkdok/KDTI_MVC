@@ -10,7 +10,7 @@ import com.myWebShop.member.vo.FileVO;
 
 @Service("fileService")
 public class FileServiceImpl implements FileService{
-	
+
 	@Autowired
 	FileDAO fileDAO;
 
@@ -19,7 +19,7 @@ public class FileServiceImpl implements FileService{
 		// TODO Auto-generated method stub
 		return fileDAO.file_list(files);
 	}
-	
+
 	@Override
 	public FileVO file_one(FileVO files) throws Exception {
 		// TODO Auto-generated method stub

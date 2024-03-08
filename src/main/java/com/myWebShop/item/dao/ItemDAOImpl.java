@@ -11,7 +11,7 @@ import com.myWebShop.item.vo.ItemVO;
 
 @Repository("itemDAO")
 public class ItemDAOImpl implements ItemDAO{
-	
+
 	@Autowired
 	private SqlSession sqlSession;
 

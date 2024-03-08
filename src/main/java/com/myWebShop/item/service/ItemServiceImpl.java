@@ -20,8 +20,8 @@ public class ItemServiceImpl implements ItemService {
 		Map<String,List<ItemVO>> ItemMap = new HashMap<String,List<ItemVO>>();
 		List<ItemVO> itemList =  itemDAO.selectItemList("RAM");
 		ItemMap.put("RAM",itemList);
-		
-		
+
+
 		return ItemMap;
 	}
 }

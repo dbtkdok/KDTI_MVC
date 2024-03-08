@@ -22,7 +22,7 @@ public class ItemVO {
 	private String item_contents_order;
 	private Date item_credate;
 	private String item_fileName;
-	
+
 	public int getItem_id() {
 		return item_id;
 	}
@@ -119,5 +119,5 @@ public class ItemVO {
 	public void setItem_fileName(String item_fileName) {
 		this.item_fileName = item_fileName;
 	}
-	
+
 }

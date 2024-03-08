@@ -26,61 +26,61 @@ import com.myWebShop.member.vo.MemberVO;
 
 @Controller("mainController")
 public class MainControllerImpl implements MainController{
-	
+
 	@Autowired
 	MemberVO memberVO;
-	
+
 	@Autowired
 	MemberService memberService;
-	
+
 	@Autowired
 	FileService fileService;
-	
+
 	@Autowired
 	ItemService itemService;
-	
+
 	@RequestMapping(value = "/", method = {RequestMethod.GET,RequestMethod.POST})
 	public  ModelAndView home(HttpServletRequest request, HttpServletResponse response) throws Exception{
 		ModelAndView mav = new ModelAndView();
-		
+
 		mav.setViewName("index");
-		
+
 		return mav;
 	}
-	
+
 	@RequestMapping(value = "/**.do", method = {RequestMethod.GET,RequestMethod.POST})
 	public  ModelAndView comMainFrame(HttpServletRequest request, HttpServletResponse response) throws Exception{
 		ModelAndView mav = new ModelAndView();
-		
+
 		String viewName=(String)request.getAttribute("viewName");
 		mav.setViewName(viewName);
-		
+
 		return mav;
 	}
-	
+
 	@RequestMapping(value = "/consultation.do", method = {RequestMethod.GET,RequestMethod.POST})
 	public  ModelAndView consultation(FileVO files, HttpServletRequest request, HttpServletResponse response) throws Exception{
 		ModelAndView mav = new ModelAndView();
-		
+
 		String viewName=(String)request.getAttribute("viewName");
 		mav.setViewName(viewName);
-		
+
 		List<FileVO> fileVO = fileService.file_list(files);
 		mav.addObject("list", fileVO);
-		
+
 		return mav;
 	}
-	
+
 	@RequestMapping(value = "/pado_dears_msg.do", method = {RequestMethod.GET,RequestMethod.POST})
 	public  ModelAndView comMainFrame_pado(MemberVO member, HttpServletRequest request, HttpServletResponse response) throws Exception{
 		ModelAndView mav = new ModelAndView();
-		
+
 		String viewName=(String)request.getAttribute("viewName");
 		mav.setViewName(viewName);
-		
+
 		List<MemberVO> memberVO = memberService.pado_text(member);
 		mav.addObject("list", memberVO);
-		
+
 		return mav;
 	}
 
@@ -91,32 +91,32 @@ public class MainControllerImpl implements MainController{
 		ModelAndView mav = new ModelAndView();
 		HttpSession session = request.getSession();
 		String viewName=(String)request.getAttribute("viewName");
-		
+
 		if(session.getAttribute("member") != null) {
 			mav.setViewName("redirect:/dashboard.do");
 		} else {
 			mav.setViewName(viewName);
 		}
-		
+
 		return mav;
 	}
-	
+
 	@ResponseBody
 	@RequestMapping(value = "/addTexts.do", method = {RequestMethod.POST})
 	public int addTexts(@RequestParam Map<String, Object> param, RedirectAttributes rAttr, HttpServletRequest request,
 			HttpServletResponse response) throws Exception {
 		System.out.println(param);
 		memberService.addTexts(param);
-		
+
 		return 0;
 	}
-	
+
 	@ResponseBody
 	@RequestMapping(value = "/login_form.do", method = {RequestMethod.POST})
 	public ModelAndView login_form(MemberVO member, RedirectAttributes rAttr, HttpServletRequest request,
 			HttpServletResponse response) throws Exception {
 		ResponseEntity<String> r = null;
-		
+
 		request.setCharacterEncoding("utf-8");
 		//System.out.println(member.getMember_id());
 		ModelAndView mav = new ModelAndView();
@@ -128,27 +128,27 @@ public class MainControllerImpl implements MainController{
 		    session.setAttribute("isLogOn", true);
 		    String action = (String)session.getAttribute("action");
 		    session.removeAttribute("action");
-		    
+
 		    mav.setViewName("redirect:/dashboard.do");
 		} else {
 			   mav.addObject("result", "fail");
 			   mav.setViewName("login");
 		}
 		r = new ResponseEntity<String>(HttpStatus.OK);
-		
+
 		return mav;
 	}
-	
+
 	@ResponseBody
 	@RequestMapping(value = "/logout.dw", method = {RequestMethod.POST, RequestMethod.GET})
 	public ModelAndView logout(MemberVO member, RedirectAttributes rAttr, HttpServletRequest request,
 			HttpServletResponse response) throws Exception {
 		HttpSession session = request.getSession();
 		ModelAndView mav = new ModelAndView();
-		
+
 		session.removeAttribute("member");
 		mav.setViewName("redirect:/");
-		
+
 		return mav;
 	}
 }

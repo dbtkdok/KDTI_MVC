@@ -12,7 +12,7 @@ public class FileVO {
 	private String file_size;
 	private String created_at;
 	private String origin_file_NM;
-	
+
 	public String getFile_id() {
 		return file_id;
 	}

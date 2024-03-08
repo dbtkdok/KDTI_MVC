@@ -11,7 +11,7 @@ import com.myWebShop.member.vo.FileVO;
 
 @Repository("fileDAO")
 public class FileDAOImpl implements FileDAO{
-	
+
 	@Autowired
 	private SqlSession sqlSession;
 
