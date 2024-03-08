@@ -32,7 +32,7 @@ import net.coobird.thumbnailator.Thumbnails;
 @Controller
 public class FileDownloadController {
 	
-	@Autowired
+	@Autowired 
 	MemberService memberService;
 	
 	@Autowired
