@@ -84,7 +84,7 @@
             <div class="modal-header">
                 
             <div id="pado_modal" class="modal-body" style="color: #fff;">
-                먼저 파도에 적을 내용을 입력해주세요.
+                지우고 싶은 내용을 입력해주세요.
             </div>
             </div>
         </div>

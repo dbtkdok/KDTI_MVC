@@ -35,7 +35,7 @@ public class MemberVO {
 	private String role_nm;
 	private String del_yn;
 	private String created_at;
-	
+
 	public String getId() {
 		return id;
 	}

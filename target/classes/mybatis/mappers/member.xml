@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper
+	PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+	"http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+	
+<mapper namespace="mapper.member">
+	<resultMap type="memberVO" id="resultMem">
+		<result property="id" column="id" />
+		<result property="member_id" column="member_id" />
+		<result property="member_pw" column="member_pw" />
+		<result property="member_name" column="member_name" />
+		<result property="member_gender" column="member_gender" />
+		
+		<result property="member_birth_y" column="member_birth_y" />
+		<result property="member_birth_m" column="member_birth_m" />
+		<result property="member_birth_d" column="member_birth_d" />
+		
+		<result property="member_birth_gn" column="member_birth_gn" />
+		<result property="tel1" column="tel1" />
+		<result property="tel2" column="tel2" />
+		<result property="tel3" column="tel3" />
+		
+		<result property="hp1" column="hp1" />
+		<result property="hp2" column="hp2" />
+		<result property="hp3" column="hp3" />
+		<result property="smssts_yn" column="smssts_yn" />
+		<result property="email1" column="email1" />
+		<result property="email2" column="email2" />
+		<result property="emailsts_yn" column="emailsts_yn" />
+		
+		<result property="zipcode" column="zipcode" />
+		<result property="roadAddress" column="roadAddress" />
+		<result property="jibunAddress" column="jibunAddress" />
+		<result property="namujiAddress" column="namujiAddress" />
+		<result property="joinDate" column="joinDate" />
+		
+		<result property="roleID" column="roleID" />
+		<result property="role_nm" column="role_nm" />
+		<result property="created_at" column="created_at" />
+	</resultMap>
+	
+	<select id="login" resultType="memberVO" parameterType="memberVO">
+		<![CDATA[
+			select
+				id 
+				,user_id as member_id
+				,username as member_name
+				,user_pw as member_pw
+				,role_id as roleID
+				,role as role_nm
+				,created_at
+			from USERS
+		]]>
+		where user_id = #{member_id}
+		  and user_pw = #{member_pw}
+	</select>
+	
+	<insert id="addMember" parameterType="memberVO">
+		insert into USERS(
+			user_id
+			,username
+			,user_pw
+			,role_id
+			,role
+			,created_at
+		)values(
+			#{member_id},
+			#{member_name},
+			#{member_pw},
+			#{roleID},
+			#{role_nm},
+			NOW()
+		)
+	</insert>
+	
+	<insert id="addFiles" parameterType="hashMap">
+		insert into FN_POSTS_FILE(
+			file_no
+			,file_name
+			,origin_file_NM
+			,file_path
+			,file_type
+			,file_size
+			,created_at
+		)values(
+			#{file_no},
+			#{file_name},
+			#{origin_file_NM},
+			#{file_path},
+			#{file_type},
+			#{file_size},
+			NOW()
+		)
+	</insert>
+	
+	<select id="pado_text" resultType="memberVO" parameterType="memberVO">
+		<![CDATA[
+			SELECT body, STATUS, created_at
+			FROM PADO_TEXT 
+			WHERE 
+				(created_at >= DATE_ADD(NOW(), INTERVAL -30 MINUTE)
+				OR STATUS = 'COMMON')
+			;
+		]]>
+	</select>
+	
+	<insert id="addTexts" parameterType="hashMap">
+		insert into PADO_TEXT(
+			body
+			,STATUS
+			,created_at
+		)values(
+			#{body},
+			'',
+			NOW()
+		)
+	</insert>
+	
+</mapper>

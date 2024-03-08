@@ -12,11 +12,11 @@ import com.myWebShop.member.vo.MemberVO;
 
 @Repository("memberDAO")
 public class MemberDAOImpl implements MemberDAO{
-	
+
 	@Autowired
 	private SqlSession sqlSession;
-	
-	
+
+
 	@Override
 	public MemberVO login(MemberVO member) throws DataAccessException {
 		MemberVO memberid= (MemberVO) sqlSession.selectOne("mapper.member.login", member);
@@ -26,8 +26,8 @@ public class MemberDAOImpl implements MemberDAO{
 
 	@Override
 	public void addMember(MemberVO member) throws DataAccessException {
-		
-		sqlSession.insert("mapper.member.addMember", member);;
+
+		sqlSession.insert("mapper.member.addMember", member);
 	}
 
 
@@ -43,7 +43,7 @@ public class MemberDAOImpl implements MemberDAO{
 		List<MemberVO> memberid= sqlSession.selectList("mapper.member.pado_text", member);
 		return memberid;
 	}
-	
+
 	@Override
 	public void addTexts(Map<String, Object> param) throws DataAccessException {
 		// TODO Auto-generated method stub
