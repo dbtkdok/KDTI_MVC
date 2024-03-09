@@ -16,14 +16,14 @@
     <meta content="한국인재발달교육원" name="keywords">
     <meta content="한국인재발달교육원" name="description">
     <meta property="og:type" content="website"> 
-    <meta property="og:title" content="KOICE:코이스">
+    <meta property="og:title" content="KDTO">
     <meta property="og:description" content="한국인재발달교육원">
-    <meta property="og:image" content="${contextPath}/resources/static/img/icon/KDTI_03.png">
-    <meta property="og:url" content="http://koice.org">
+    <meta property="og:image" content="${contextPath}/resources/static/img/icon/KDTO_03.png">
+    <meta property="og:url" content="http://kdto.co.kr">
     <meta name="naver-site-verification" content="fe1cf9ac84992b1360347357dc6ff9d3ec7677bf" />
     <meta name="google-site-verification" content="7fnLDtIrnvPnCMmqRW93YdKCdUHXhyVObj9G1OS0-dw" />
     <!-- Favicon -->
-	<link href="${contextPath}/resources/static/img/icon/KDTI_04.png" rel="icon">
+	<link href="${contextPath}/resources/static/img/icon/KDTO_04.png" rel="icon">
 	
     <!-- Custom styles for this template-->
     <link href="${contextPath}/resources/static/css/dashboard.css" rel="stylesheet">

@@ -18,12 +18,12 @@
     <meta property="og:type" content="website"> 
     <meta property="og:title" content="한국인재발달교육원">
     <meta property="og:description" content="한국인재발달교육원">
-    <meta property="og:image" content="${contextPath}/resources/static/img/icon/KDTI_02.png">
-    <meta property="og:url" content="http://kdti.seoul.kr">
+    <meta property="og:image" content="${contextPath}/resources/static/img/icon/KDTO_02.png">
+    <meta property="og:url" content="http://kdto.co.kr">
     <meta name="naver-site-verification" content="fe1cf9ac84992b1360347357dc6ff9d3ec7677bf" />
     <meta name="google-site-verification" content="7fnLDtIrnvPnCMmqRW93YdKCdUHXhyVObj9G1OS0-dw" />
     <!-- Favicon -->
-    <link href="${contextPath}/resources/static/img/icon/KDTI_04.png" rel="icon">
+    <link href="${contextPath}/resources/static/img/icon/KDTO_04.png" rel="icon">
     <link href="https://fonts.googleapis.com/css2?family=Jost:wght@500;600;700&family=Open+Sans:wght@400;500&display=swap" rel="stylesheet">  
     <link href="${contextPath}/resources/static/bootstrap/css/bootstrap.min.css" rel="stylesheet">
     <script src="${contextPath}/resources/static/bootstrap/js/bootstrap.min.js"></script>

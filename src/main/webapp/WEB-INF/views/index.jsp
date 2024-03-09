@@ -29,7 +29,7 @@
                 <div class="swiper-slide" id="slide1">
                     <div class="swiper_intro">
                         <div class="swiper_intro_text">
-                            <h1>KDTI</h1>
+                            <h1>KDTO</h1>
                             <h5>한국인재발달교육원</h5>
                             </br>
                             <p>변화는 교육에서부터 시작합니다.</p>
@@ -208,7 +208,7 @@
                         <div class="team-item rounded he_300 d-grid align-items-end">
                             <div class="text-start text-black">
                                 <h5 class="text-black mb-3 ms-3">공지사항</h5>
-                                <h4 class="text-black ms-3">2023년 KOICE 청년 인턴 직무 캠프 개최</h4>
+                                <h4 class="text-black ms-3">2023년 KDTO 청년 인턴 직무 캠프 개최</h4>
                             </div>
                             <div  class="text-start text-black">
                                 <p class="text-black ms-3">2023-08-31</p>
