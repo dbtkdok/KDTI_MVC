@@ -35,7 +35,7 @@
             </div>
             <div class="align-items-center mt-4 wow fadeInLeft text-start mb-2 border-bottom border-dark ">
                 <h2 class="text-black mb-3 fw-bold">
-                    2023년 KDTI 취업페스타 개최
+                    2023년 KDTO 취업페스타 개최
                 </h2>
                 <p class="d-inline text-black mb-5">
                     <span class="badge bg-secondary" style="font-size: 0.9em;">작성자 </span> 관리자
@@ -47,12 +47,12 @@
             </div>
             <div class="row justify-content-center align-items-center mb-5">
                 <h4 class="text-black my-3">
-                    2023년 KDTI 취업페스타
+                    2023년 KDTO 취업페스타
                 </h4>
                 <img src="${contextPath}/resources/static/img/notice/recruting_festa_2023_poster.jpg" class="img-fluid"/>
                 <p class="text-black mb-2"></p>
                 <br/>
-                <p class="text-black mb-4"> <b>2023년 KDTI 취업페스타</b></p>
+                <p class="text-black mb-4"> <b>2023년 KDTO 취업페스타</b></p>
                 
                 <p class="text-black mb-2"> 취업페스타가 성공리에 막을 내렸습니다.</p>
                 <p class="text-black mb-5"> 많은 청년들이 이번 취업페스타에 관심을 가지고 참석하였습니다. </p>
@@ -79,7 +79,7 @@
                    <div class="row justify-content-center align-items-center">
                        <div class="col-lg-3 col-12">
                            <div class="topics-detail-block mb-5 wow fadeInUp text-start">
-                               <img src="${contextPath}/resources/static/img/icon/KDTI_03.png" style="width: 200px" class="topics-detail-block-image img-fluid" style="-webkit-box-reflect: below -110px linear-gradient(transparent, rgba(0,0,0,0), rgba(0,0,0,0.4));">
+                               <img src="${contextPath}/resources/static/img/icon/KDTO_03.png" style="width: 200px" class="topics-detail-block-image img-fluid" style="-webkit-box-reflect: below -110px linear-gradient(transparent, rgba(0,0,0,0), rgba(0,0,0,0.4));">
                            </div>
                        </div>
                        <div class="col-lg-8 col-12">
@@ -88,8 +88,8 @@
                                    <p class="text-black">한국인재발달연구원 | 서울 서초구 서초대로 396 2층(서초동, 강남빌딩)</p>
                                    <p class="text-black ms-3">대표 : 김규현 | 사업자등록번호 : 767-16-01874</p>
                                </div>
-                               <p class="text-black">Tel : 070-4554-3269 E-mail : help@kdti.seoul.kr</p>
-                               <p class="text-black mb-3 mt-2">Copyright ⓒ 2017 KDTI, All right reserved</p>
+                               <p class="text-black">Tel : 070-4554-3269 E-mail : help@kdto.co.kr</p>
+                               <p class="text-black mb-3 mt-2">Copyright ⓒ 2017 KDTO, All right reserved</p>
                            </div>
                        </div>
                    </div>

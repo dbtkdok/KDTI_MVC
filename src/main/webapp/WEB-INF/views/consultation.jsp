@@ -76,7 +76,7 @@
 	</div>
 	
 	<div class="py-6 px-6 text-center">
-	  <p class="mb-0 fs-4">Developed by <a href="http://koice.org/" target="_blank" class="pe-1 text-primary text-decoration-underline">koice.org</a></p>
+	  <p class="mb-0 fs-4">Developed by <a href="http://kdto.co.kr/" target="_blank" class="pe-1 text-primary text-decoration-underline">kdto.co.kr</a></p>
 	</div>
 </body>
 
