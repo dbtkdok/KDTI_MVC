@@ -15,7 +15,8 @@
     <!-- <meta name="viewport" content="initial-scale=1.0; maximum-scale=1.0; minimum-scale=1.0; user-scalable=yes;" /> -->
     <meta content="한국인재발달교육원, KDTO, 인재발달, 교육원, 한국인재, 한국인재개발, 인재개발교육원" name="keywords">
     <meta content="한국인재발달교육원, KDTO, 인재발달, 교육원, 한국인재, 한국인재개발, 인재개발교육원" name="description">
-    <link rel="icon" href="${contextPath}/resources/static/img/KDTI_bk_none.png">
+    <link rel="icon" href="${contextPath}/resources/static/img/KDTI_bk_none.png">    
+    <link rel="icon" type="image/x-icon" href="${contextPath}/resources/static/img/KDTI_bk_none.png">
     <meta property="og:type" content="website"> 
     <meta property="og:title" content="KDTO">
     <meta property="og:description" content="한국인재발달교육원">
