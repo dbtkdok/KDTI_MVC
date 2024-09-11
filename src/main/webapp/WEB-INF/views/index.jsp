@@ -6,7 +6,7 @@
 <html lang="ko">
 <head>
 	 
-</head>
+</head> 
 <body> 
 <!-- Modal content-->
 <!-- 
