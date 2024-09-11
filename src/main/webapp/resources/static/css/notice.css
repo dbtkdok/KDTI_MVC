@@ -5,7 +5,7 @@ body {
   min-height: 30vh!important;
 }
 .about_main {
-  background: linear-gradient(rgba(0, 0, 0, 0.527), rgba(0, 0, 0, 0.5)), url(../img/notice/1_main_banner.png);
+  background: linear-gradient(rgba(0, 0, 0, 0.527), rgba(0, 0, 0, 0.5)), url(../img/notice/content_main.png);
   background-size: cover;
   background-position: center;
   max-width:none!important;

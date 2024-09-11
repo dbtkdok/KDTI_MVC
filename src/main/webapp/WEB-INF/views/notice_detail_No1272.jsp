@@ -35,24 +35,24 @@
             </div>
             <div class="align-items-center mt-4 wow fadeInLeft text-start mb-2 border-bottom border-dark ">
                 <h2 class="text-black mb-3 fw-bold">
-                    2023년 KDTO 취업페스타 개최
+                    2024년 KDTO 취업페스타 개최
                 </h2>
                 <p class="d-inline text-black mb-5">
                     <span class="badge bg-secondary" style="font-size: 0.9em;">작성자 </span> 관리자
                 </p>
                 <p class="d-inline text-black mb-5">
-                    &nbsp; <span class="badge bg-secondary" style="font-size: 0.9em;">등록일 </span> 2023-09-13
+                    &nbsp; <span class="badge bg-secondary" style="font-size: 0.9em;">등록일 </span> 2024-07-13
                 </p>
                 <p class="mb-4"></p>
             </div>
             <div class="row justify-content-center align-items-center mb-5">
                 <h4 class="text-black my-3">
-                    2023년 KDTO 취업페스타
+                    2024년 KDTO 취업페스타
                 </h4>
                 <img src="${contextPath}/resources/static/img/notice/recruting_festa_2023_poster.jpg" class="img-fluid"/>
                 <p class="text-black mb-2"></p>
                 <br/>
-                <p class="text-black mb-4"> <b>2023년 KDTO 취업페스타</b></p>
+                <p class="text-black mb-4"> <b>2024년 KDTO 취업페스타</b></p>
                 
                 <p class="text-black mb-2"> 취업페스타가 성공리에 막을 내렸습니다.</p>
                 <p class="text-black mb-5"> 많은 청년들이 이번 취업페스타에 관심을 가지고 참석하였습니다. </p>

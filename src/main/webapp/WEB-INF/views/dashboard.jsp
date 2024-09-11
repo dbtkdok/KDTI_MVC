@@ -33,7 +33,7 @@
 	        </div>
 	        <ul class="timeline-widget mb-0 position-relative mb-n5">
 	          <li class="timeline-item d-flex position-relative overflow-hidden">
-	            <div class="timeline-time text-dark flex-shrink-0 text-end">3/4</div>
+	            <div class="timeline-time text-dark flex-shrink-0 text-end">8/4</div>
 	            <div class="timeline-badge-wrap d-flex flex-column align-items-center">
 	              <span class="timeline-badge border-2 border border-primary flex-shrink-0 my-8"></span>
 	              <span class="timeline-badge-border d-block flex-shrink-0"></span>
@@ -41,7 +41,7 @@
 	            <div class="timeline-desc fs-3 text-dark mt-n1 fw-semibold">철학 세미나</div>
 	          </li>
 	          <li class="timeline-item d-flex position-relative overflow-hidden">
-	            <div class="timeline-time text-dark flex-shrink-0 text-end">3/17</div>
+	            <div class="timeline-time text-dark flex-shrink-0 text-end">8/17</div>
 	            <div class="timeline-badge-wrap d-flex flex-column align-items-center">
 	              <span class="timeline-badge border-2 border border-info flex-shrink-0 my-8"></span>
 	              <span class="timeline-badge-border d-block flex-shrink-0"></span>
@@ -49,7 +49,7 @@
 	            <div class="timeline-desc fs-3 text-dark mt-n1 fw-semibold">SW 융합 해커톤 대회</div>
 	          </li>
 	          <li class="timeline-item d-flex position-relative overflow-hidden">
-	            <div class="timeline-time text-dark flex-shrink-0 text-end">3/20</div>
+	            <div class="timeline-time text-dark flex-shrink-0 text-end">8/20</div>
 	            <div class="timeline-badge-wrap d-flex flex-column align-items-center">
 	              <span class="timeline-badge border-2 border border-success flex-shrink-0 my-8"></span>
 	              <span class="timeline-badge-border d-block flex-shrink-0"></span>
@@ -57,15 +57,15 @@
 	            <div class="timeline-desc fs-3 text-dark mt-n1 fw-semibold">심리학 세미나</div>
 	          </li>
 	          <li class="timeline-item d-flex position-relative overflow-hidden">
-	            <div class="timeline-time text-dark flex-shrink-0 text-end">3/23</div>
+	            <div class="timeline-time text-dark flex-shrink-0 text-end">8/23</div>
 	            <div class="timeline-badge-wrap d-flex flex-column align-items-center">
 	              <span class="timeline-badge border-2 border border-warning flex-shrink-0 my-8"></span>
 	              <span class="timeline-badge-border d-block flex-shrink-0"></span>
 	            </div>
-	            <div class="timeline-desc fs-3 text-dark mt-n1 fw-semibold">클라시쿠스</div>
+	            <div class="timeline-desc fs-3 text-dark mt-n1 fw-semibold">인문학 세미나</div>
 	          </li>
 	          <li class="timeline-item d-flex position-relative overflow-hidden">
-	            <div class="timeline-time text-dark flex-shrink-0 text-end">4/8</div>
+	            <div class="timeline-time text-dark flex-shrink-0 text-end">9/8</div>
 	            <div class="timeline-badge-wrap d-flex flex-column align-items-center">
 	              <span class="timeline-badge border-2 border border-danger flex-shrink-0 my-8"></span>
 	              <span class="timeline-badge-border d-block flex-shrink-0"></span>
@@ -74,7 +74,7 @@
 	            </div>
 	          </li>
 	          <li class="timeline-item d-flex position-relative overflow-hidden">
-	            <div class="timeline-time text-dark flex-shrink-0 text-end">4/13</div>
+	            <div class="timeline-time text-dark flex-shrink-0 text-end">9/13</div>
 	            <div class="timeline-badge-wrap d-flex flex-column align-items-center">
 	              <span class="timeline-badge border-2 border border-success flex-shrink-0 my-8"></span>
 	            </div>
@@ -135,13 +135,13 @@
 	              <tr>
 	                <td class="border-bottom-0"><h6 class="fw-semibold mb-0">321</h6></td>
 	                <td class="border-bottom-0">
-	                    <span class="fw-semibold">교육 공지</span>                          
+	                    <span class="fw-semibold">컨설턴트 공지</span>                          
 	                </td>
 	                <td class="border-bottom-0">
-	                  <h6 class="mb-0 fw-semibold mb-1">클라시쿠스 안내</h6>
+	                  <h6 class="mb-0 fw-semibold mb-1">컨설팅 세미나 일정 변동 안내</h6>
 	                </td>
 	                <td class="border-bottom-0">
-	                  <span class="fw-semibold">2024.03.15</span>
+	                  <span class="fw-semibold">2024.07.15</span>
 	                </td>
 	                <td class="border-bottom-0">
 	                  <span class="fw-semibold">132</span>
@@ -150,13 +150,13 @@
 	              <tr>
 	                <td class="border-bottom-0"><h6 class="fw-semibold mb-0">320</h6></td>
 	                <td class="border-bottom-0">
-	                    <span class="fw-semibold">컨설턴트 공지</span>                          
+	                    <span class="fw-semibold">교육 공지</span>                          
 	                </td>
 	                <td class="border-bottom-0">
-	                  <h6 class="mb-0 fw-semibold mb-1">컨설팅 세미나 일정 변동 안내</h6>
+	                  <h6 class="mb-0 fw-semibold mb-1">취업페스타 안내</h6>
 	                </td>
 	                <td class="border-bottom-0">
-	                  <span class="fw-semibold">2024.03.11</span>
+	                  <span class="fw-semibold">2024.07.11</span>
 	                </td>
 	                <td class="border-bottom-0">
 	                  <span class="fw-semibold">251</span>
@@ -171,7 +171,7 @@
 	                <h6 class="mb-0 fw-semibold mb-1">SW 융합 해커톤 대회 일정 안내</h6>
 	              </td>
 	              <td class="border-bottom-0">
-	                <span class="fw-semibold">2024.03.06</span>
+	                <span class="fw-semibold">2024.07.06</span>
 	              </td>
 	              <td class="border-bottom-0">
 	                <span class="fw-semibold">125</span>
@@ -183,10 +183,10 @@
 	                  <span class="fw-semibold">교육 공지</span>                          
 	              </td>
 	              <td class="border-bottom-0">
-	                <h6 class="mb-0 fw-semibold mb-1">3월 세미나 일정 안내</h6>
+	                <h6 class="mb-0 fw-semibold mb-1">7월 세미나 일정 안내</h6>
 	              </td>
 	              <td class="border-bottom-0">
-	                <span class="fw-semibold">2024.02.27</span>
+	                <span class="fw-semibold">2024.06.27</span>
 	              </td>
 	              <td class="border-bottom-0">
 	                <span class="fw-semibold">176</span>

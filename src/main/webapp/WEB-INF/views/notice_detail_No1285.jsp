@@ -41,7 +41,7 @@
                     <span class="badge bg-secondary" style="font-size: 0.9em;">작성자 </span> 관리자
                 </p>
                 <p class="d-inline text-black mb-5">
-                    &nbsp; <span class="badge bg-secondary" style="font-size: 0.9em;">등록일 </span> 2023-09-14
+                    &nbsp; <span class="badge bg-secondary" style="font-size: 0.9em;">등록일 </span> 2024-07-15
                 </p>
                 <p class="mb-4"></p>
             </div>

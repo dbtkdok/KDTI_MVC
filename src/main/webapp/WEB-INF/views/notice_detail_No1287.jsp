@@ -41,7 +41,7 @@
                     <span class="badge bg-secondary" style="font-size: 0.9em;">작성자 </span> 관리자
                 </p>
                 <p class="d-inline text-black mb-5">
-                    &nbsp; <span class="badge bg-secondary" style="font-size: 0.9em;">등록일 </span> 2023-11-02
+                    &nbsp; <span class="badge bg-secondary" style="font-size: 0.9em;">등록일 </span> 2024-08-01
                 </p>
                 <p class="mb-4"></p>
             </div>
@@ -53,7 +53,7 @@
                 <br/>
                 <p class="text-black mb-2"> <b>■ 회사명 :</b> (주)PSI컨설팅</p>
                 <p class="text-black mb-2"> <b>■ 직무명 :</b> 솔루션개발 책임컨설턴트 0명 / 선임 컨설턴트 0명 </p>
-                <p class="text-black mb-2"> <b>■ 모집기간 :</b> 2023.11.02(화) ~ 2023.12.02(토)</p>
+                <p class="text-black mb-2"> <b>■ 모집기간 :</b> 2024.08.06(화) ~ 2024.08.26(월)</p>
                 <p class="text-black mb-3 fw-bold"> ■ 필요이력</p>
                 <p class="text-black mb-2">- HRD 업무 3년 이상 경력자</p>
                 <p class="text-black mb-2">- 직무 설명 관련 프로젝트 수행 경력</p>

@@ -54,7 +54,7 @@
 							</tr>
 							<tr>
 								<td colspan="2" class="h-25 text-start ps-3 fw-light pt-0 pb-4">등록일
-									2023-11-02</td>
+									2024-08-01</td>
 							</tr>
 							<tr>
 								<th rowspan="2">1286</th>
@@ -65,7 +65,7 @@
 							</tr>
 							<tr>
 								<td colspan="2" class="h-25 text-start ps-3 fw-light pt-0 pb-4">등록일
-									2023-10-31</td>
+									2024-07-24</td>
 							</tr>
 							<tr>
 								<th rowspan="2">1285</th>
@@ -77,18 +77,18 @@
 							</tr>
 							<tr>
 								<td colspan="2" class="h-25 text-start ps-3 fw-light pt-0 pb-4">등록일
-									2023-09-14</td>
+									2024-07-15</td>
 							</tr>
 							<tr>
 								<th rowspan="2">1272</th>
 								<td colspan="2" class="border-0 text-start ps-3 fw-bold pb-0"><a
 									href="/notice_detail_No1272.do" class="text-black"
-									style="cursor: pointer;">대외홍보<br /> 2023년 KDTO 청년취업페스타 개최
+									style="cursor: pointer;">대외홍보<br /> 2024년 KDTO 청년취업페스타 개최
 								</a></td>
 							</tr>
 							<tr>
 								<td colspan="2" class="h-25 text-start ps-3 fw-light pt-0 pb-4">등록일
-									2023-08-31</td>
+									2023-07-13</td>
 							</tr>
 							<tr>
 								<th rowspan="2">1266</th>
@@ -99,7 +99,7 @@
 							</tr>
 							<tr>
 								<td colspan="2" class="h-25 text-start ps-3 fw-light pt-0 pb-4">등록일
-									2023-07-01</td>
+									2024-06-10</td>
 							</tr>
 							<tr>
 								<th rowspan="2">1265</th>
@@ -110,7 +110,7 @@
 							</tr>
 							<tr>
 								<td colspan="2" class="h-25 text-start ps-3 fw-light pt-0 pb-4">등록일
-									2023-05-11</td>
+									2024-05-11</td>
 							</tr>
 						</table>
 						<div class="d-grid gap-2 mt-3">
