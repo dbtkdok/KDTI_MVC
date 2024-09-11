@@ -7,7 +7,7 @@
 <head>
 	
 </head>
-<body>
+<body>  
 <!-- Modal content-->
 <!-- 
 	<div class="modal fade" id="myModal" role="dialog">
