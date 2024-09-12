@@ -134,15 +134,15 @@
 							</div>
 						</div>
 						<div class="col-lg-8 col-12">
-                           <div class="text-black text-start">
-                               <div class="d-flex">
-                                   <p class="text-black">시립청년인재개발원 | 서울 서초구 서초대로 396 2층(서초동, 강남빌딩)</p>
-                                   <p class="text-black ms-3">대표 : 김규현 | 사업자등록번호 : 767-16-01874</p>
-                               </div>
-                               <p class="text-black">Tel : 070-4554-3269 E-mail : help@tecis.co.kr</p>
-                               <p class="text-black mb-3 mt-2">Copyright ⓒ 2017 TECIS, All right reserved</p>
-                           </div>
-                       </div>
+							<div class="text-black text-start">
+								<div class="d-flex">
+									<p class="text-black">시립청년인재개발연구원 | 서울 서초구 서초대로 396 2층(서초동, 강남빌딩)</p>
+									<p class="text-black ms-3">대표 : 김규현 | 사업자등록번호 : 767-16-01874</p>
+								</div>
+								<p class="text-black">Tel : 070-4554-3269 E-mail : help@tecis.co.kr</p>
+								<p class="text-black mb-3 mt-2">Copyright ⓒ 2017 TECIS, All right reserved</p>
+							</div>
+						</div>
 					</div>
 				</div>
 			</div>

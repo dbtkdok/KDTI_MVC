@@ -28,7 +28,7 @@
             <div class="row justify-content-center align-items-center">
                 <div class="col-lg-12 col-12">
                     <div class="align-items-center mt-4 wow fadeInLeft text-center mb-5">
-                        <h1 class="text-black">Korea Development of Talent Education</h1>
+                        <h1 class="text-black">Talented coaching institution of seoul</h1>
                         재경험을 통한 지속가능한 성장을 이끌어갑니다
                     </div>
                 </div>
@@ -313,7 +313,7 @@
                                 <div class="col-lg-8 col-12">
                                     <div class="text-black text-start">
                                         <div class="d-flex">
-                                            <p class="text-black">시립청년인재개발원 | 서울 서초구 서초대로 396 2층(서초동, 강남빌딩)</p>
+                                            <p class="text-black">시립청년인재개발연구원 | 서울 서초구 서초대로 396 2층(서초동, 강남빌딩)</p>
                                             <p class="text-black ms-3">대표 : 김규현 | 사업자등록번호 : 767-16-01874</p>
                                         </div>
                                         <p class="text-black">Tel : 070-4554-3269 E-mail : help@tecis.co.kr</p>

@@ -35,7 +35,7 @@
             <div class="row justify-content-center align-items-center">
                 <div class="col-lg-12 col-12 mt-5">
                     <div class="align-items-center mt-4 wow fadeInLeft text-center mb-5 mt-5">
-                        시립청년인재개발원은 잠재력과 정체성이 중요해진 시대 흐름에 맞추어<br/>
+                        시립청년인재개발연구원은 잠재력과 정체성이 중요해진 시대 흐름에 맞추어<br/>
                         경쟁력과 ‘나’ 다움을 지닌 인재를 양성함으로써,<br/>
                         개인과 사회의 발전에 기여하는 목적을 가지고 있습니다.<br/><br/>
 
@@ -74,7 +74,7 @@
                             2017년 한국 코칭 시장의 급격한 성장으로<br/>
                             코칭에 대한 객관적인 평가 및 감독의 필요성 또한 증가하였습니다.<br/><br/>  
 
-                            시립청년인재개발원은 코칭사와 코칭 프로그램에 대한 평가 관리,<br/> 
+                            시립청년인재개발연구원은 코칭사와 코칭 프로그램에 대한 평가 관리,<br/> 
                             코칭 가이드 제작 및 교육 아웃소싱을 통해<br/> 
                             보다 책임감 있는 교육 문화를 만들어가고 있습니다.
                         </div>
@@ -316,7 +316,7 @@
                                 <div class="col-lg-8 col-12">
                                     <div class="text-black text-start">
                                         <div class="d-flex">
-                                            <p class="text-black">시립청년인재개발원 | 서울 서초구 서초대로 396 2층(서초동, 강남빌딩)</p>
+                                            <p class="text-black">시립청년인재개발연구원 | 서울 서초구 서초대로 396 2층(서초동, 강남빌딩)</p>
                                             <p class="text-black ms-3">대표 : 김규현 | 사업자등록번호 : 767-16-01874</p>
                                         </div>
                                         <p class="text-black">Tel : 070-4554-3269 E-mail : help@tecis.co.kr</p>

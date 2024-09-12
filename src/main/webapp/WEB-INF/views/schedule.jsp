@@ -34,10 +34,10 @@
 	          </div>
 	          <div>
 	            <select class="form-select">
-	              <option value="1">March 2023</option>
-	              <option value="2">April 2023</option>
-	              <option value="3">May 2023</option>
-	              <option value="4">June 2023</option>
+	              <option value="1">March 2024</option>
+	              <option value="2">April 2024</option>
+	              <option value="3">May 2024</option>
+	              <option value="4">June 2024</option>
 	            </select>
 	          </div>
 	        </div>
@@ -66,11 +66,11 @@
 	                <div class="d-flex align-items-center">
 	                  <div class="me-4">
 	                    <span class="round-8 bg-primary rounded-circle me-2 d-inline-block"></span>
-	                    <span class="fs-2">2023</span>
+	                    <span class="fs-2">2024</span>
 	                  </div>
 	                  <div>
 	                    <span class="round-8 bg-light-primary rounded-circle me-2 d-inline-block"></span>
-	                    <span class="fs-2">2023</span>
+	                    <span class="fs-2">2024</span>
 	                  </div>
 	                </div>
 	              </div>
