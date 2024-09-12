@@ -83,12 +83,12 @@
 								<th rowspan="2">1272</th>
 								<td colspan="2" class="border-0 text-start ps-3 fw-bold pb-0"><a
 									href="/notice_detail_No1272.do" class="text-black"
-									style="cursor: pointer;">대외홍보<br /> 2024년 KDTO 청년취업페스타 개최
+									style="cursor: pointer;">대외홍보<br /> 2024년 TECIS 청년취업페스타 개최
 								</a></td>
 							</tr>
 							<tr>
 								<td colspan="2" class="h-25 text-start ps-3 fw-light pt-0 pb-4">등록일
-									2023-07-13</td>
+									2024-07-13</td>
 							</tr>
 							<tr>
 								<th rowspan="2">1266</th>
@@ -127,24 +127,22 @@
 					<div class="row justify-content-center align-items-center">
 						<div class="col-lg-3 col-12">
 							<div class="topics-detail-block mb-5 wow fadeInUp text-start">
-								<img src="${contextPath}/resources/static/img/icon/KDTO_03.png"
+								<img src="${contextPath}/resources/static/img/logos/tecis logo-01.png"
 									style="width: 200px"
 									class="topics-detail-block-image img-fluid"
 									style="-webkit-box-reflect: below -110px linear-gradient(transparent, rgba(0,0,0,0), rgba(0,0,0,0.4));">
 							</div>
 						</div>
 						<div class="col-lg-8 col-12">
-							<div class="text-black text-start">
-								<div class="d-flex">
-									<p class="text-black">한국인재발달교육원 | 서울 서초구 서초대로 396 2층(서초동,
-										강남빌딩)</p>
-									<p class="text-black ms-3">대표 : 김규현 | 사업자등록번호 : 767-16-01874</p>
-								</div>
-								<p class="text-black">Tel : 070-4554-3269 E-mail : help@kdto.co.kr</p>
-								<p class="text-black mb-3 mt-2">Copyright ⓒ 2017 KDTO, All
-									right reserved</p>
-							</div>
-						</div>
+                           <div class="text-black text-start">
+                               <div class="d-flex">
+                                   <p class="text-black">시립청년인재개발원 | 서울 서초구 서초대로 396 2층(서초동, 강남빌딩)</p>
+                                   <p class="text-black ms-3">대표 : 김규현 | 사업자등록번호 : 767-16-01874</p>
+                               </div>
+                               <p class="text-black">Tel : 070-4554-3269 E-mail : help@tecis.co.kr</p>
+                               <p class="text-black mb-3 mt-2">Copyright ⓒ 2017 TECIS, All right reserved</p>
+                           </div>
+                       </div>
 					</div>
 				</div>
 			</div>

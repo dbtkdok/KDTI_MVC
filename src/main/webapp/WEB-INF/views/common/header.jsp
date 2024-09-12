@@ -11,7 +11,7 @@
        <nav class="main-nav">
            <!-- ***** Logo Start ***** -->
            <a href="/" class="logo">
-               <img src="${contextPath}/resources/static/img/icon/kdto_logo.png" style="width: 160px; height: 53px;" />
+               <img src="${contextPath}/resources/static/img/logos/tecis logo-01.png" style="width: 160px; height: 53px;" />
            </a>
            <!-- ***** Logo End ***** -->
            <!-- ***** Menu Start ***** -->

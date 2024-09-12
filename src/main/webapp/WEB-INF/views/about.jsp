@@ -13,7 +13,7 @@
 	            <div class="row justify-content-center align-items-center mb-5">
 	                <div class="col-lg-12 col-12">
 	                    <div class="topics-detail-block text-center wow fadeInUp mb-5">
-	                        <img src="${contextPath}/resources/static/img/icon/kdto_logo.png" style="width: 300px; margin-right: 30px;" class="topics-detail-block-image img-fluid" style="-webkit-box-reflect: below -110px linear-gradient(transparent, rgba(0,0,0,0), rgba(0,0,0,0.4));">
+	                        <img src="${contextPath}/resources/static/img/logos/tecis logo-01.png" style="width: 300px; margin-right: 30px;" class="topics-detail-block-image img-fluid" style="-webkit-box-reflect: below -110px linear-gradient(transparent, rgba(0,0,0,0), rgba(0,0,0,0.4));">
 	                    </div>
 	                    <div class="d-flex justify-content-center mt-4 mb-4">
 	                        <hr class="about_main_hr"/>
@@ -35,7 +35,7 @@
             <div class="row justify-content-center align-items-center">
                 <div class="col-lg-12 col-12 mt-5">
                     <div class="align-items-center mt-4 wow fadeInLeft text-center mb-5 mt-5">
-                        한국인재발달교육원은 잠재력과 정체성이 중요해진 시대 흐름에 맞추어<br/>
+                        시립청년인재개발원은 잠재력과 정체성이 중요해진 시대 흐름에 맞추어<br/>
                         경쟁력과 ‘나’ 다움을 지닌 인재를 양성함으로써,<br/>
                         개인과 사회의 발전에 기여하는 목적을 가지고 있습니다.<br/><br/>
 
@@ -58,7 +58,7 @@
                         함께 하여 주시고 성원해주시기 바랍니다.<br/>
                     </div>
                     <div class="align-items-right mt-4 wow fadeInLeft text-end mb-3 w-75">
-                        KDTO 대표이사
+                        TECIS 대표이사
                     </div>
                     <div class="align-items-right wow fadeInLeft text-end mb-5 pe-5 me-5 w-75">
                         김규현
@@ -74,7 +74,7 @@
                             2017년 한국 코칭 시장의 급격한 성장으로<br/>
                             코칭에 대한 객관적인 평가 및 감독의 필요성 또한 증가하였습니다.<br/><br/>  
 
-                            한국인재발달교육원은 코칭사와 코칭 프로그램에 대한 평가 관리,<br/> 
+                            시립청년인재개발원은 코칭사와 코칭 프로그램에 대한 평가 관리,<br/> 
                             코칭 가이드 제작 및 교육 아웃소싱을 통해<br/> 
                             보다 책임감 있는 교육 문화를 만들어가고 있습니다.
                         </div>
@@ -153,7 +153,7 @@
                 <div class="row justify-content-center align-items-center">
                     <div class="col-lg-12 col-12 mt-4">
                         <p class="text-primary text-start">
-                            KDTO
+                            TECIS
                         </p>
                         <h2 class="text-black mb-3">
                             Part Introduction
@@ -310,17 +310,17 @@
                             <div class="row justify-content-center align-items-center">
                                 <div class="col-lg-3 col-12">
                                     <div class="topics-detail-block mb-5 wow fadeInUp text-start">
-                                        <img src="${contextPath}/resources/static/img/icon/KDTO_03.png" style="width: 200px" class="topics-detail-block-image img-fluid" style="-webkit-box-reflect: below -110px linear-gradient(transparent, rgba(0,0,0,0), rgba(0,0,0,0.4));">
+                                        <img src="${contextPath}/resources/static/img/logos/tecis logo-01.png" style="width: 200px" class="topics-detail-block-image img-fluid" style="-webkit-box-reflect: below -110px linear-gradient(transparent, rgba(0,0,0,0), rgba(0,0,0,0.4));">
                                     </div>
                                 </div>
                                 <div class="col-lg-8 col-12">
                                     <div class="text-black text-start">
                                         <div class="d-flex">
-                                            <p class="text-black">한국인재발달교육원 | 서울 서초구 서초대로 396 2층(서초동, 강남빌딩)</p>
+                                            <p class="text-black">시립청년인재개발원 | 서울 서초구 서초대로 396 2층(서초동, 강남빌딩)</p>
                                             <p class="text-black ms-3">대표 : 김규현 | 사업자등록번호 : 767-16-01874</p>
                                         </div>
-                                        <p class="text-black">Tel : 070-4554-3269 E-mail : help@kdto.co.kr</p>
-                                        <p class="text-black mb-3 mt-2">Copyright ⓒ 2017 KDTO, All right reserved</p>
+                                        <p class="text-black">Tel : 070-4554-3269 E-mail : help@tecis.co.kr</p>
+                                        <p class="text-black mb-3 mt-2">Copyright ⓒ 2017 TECIS, All right reserved</p>
                                     </div>
                                 </div>
                             </div>

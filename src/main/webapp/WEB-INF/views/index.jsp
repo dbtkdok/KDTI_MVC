@@ -29,8 +29,8 @@
                 <div class="swiper-slide" id="slide1">
                     <div class="swiper_intro">
                         <div class="swiper_intro_text">
-                            <h1>KDTO</h1>
-                            <h5>한국인재발달교육원</h5>
+                            <h1>TECIS</h1>
+                            <h5>시립청년인재개발원</h5>
                             </br>
                             <p>변화는 교육에서부터 시작합니다.</p>
                         </div>
@@ -58,7 +58,7 @@
                     <div class="col-lg-7 col-12">
     
                         <h3 class="main_text_2 text-white wow fadeInLeft">
-                            한국인재발달교육원은 <br/>
+                            시립청년인재개발원은 <br/>
                             미래의 자산이 될 인재들을 성장시키기 위하여<br/>
                             다양한 교육 프로그램을 연구하고 제공합니다.
                         </h3>
@@ -75,7 +75,7 @@
     
                     <div class="col-lg-4 col-12">
                         <div class="topics-detail-block text-center wow fadeInUp">
-                            <img src="${contextPath}/resources/static/img/main/7_main_description.png" style="width: 300px" class="topics-detail-block-image img-fluid" style="-webkit-box-reflect: below -110px linear-gradient(transparent, rgba(0,0,0,0), rgba(0,0,0,0.4));">
+                            <img src="${contextPath}/resources/static/img/logos/tecis logo-01.png" style="width: 300px" class="topics-detail-block-image img-fluid" style="-webkit-box-reflect: below -110px linear-gradient(transparent, rgba(0,0,0,0), rgba(0,0,0,0.4));">
                             <div class="main_img_color">
                                 <!-- 
                                 <img src="${contextPath}/resources/static/img/main/7_color_clip.png" style="width: 120px; display: block">
@@ -173,9 +173,23 @@
                 <div class="text-start wow fadeInUp mb-4" data-wow-delay="0.1s" style="max-width: 500px;">
                     <!--<p class="fs-5 fw-bold text-primary">NEWS & INISIGHT</p>-->
                     <h3 class="display-6 text-black" style="font-weight: 800 !important;">NEWS & INISIGHT</h3>
-                    <p class="text-black">사회의 첫 걸음, 한국인재발달교육원이 함께 하겠습니다.</p>
+                    <p class="text-black">사회의 첫 걸음, 시립청년인재개발원이 함께 하겠습니다.</p>
                 </div>
                 <div class="row g-4">
+                    <div class="col-lg-3 col-md-6 wow fadeInUp px-1" data-wow-delay="0.1s">
+                        <div class="team-item rounded he_300 d-grid align-items-end">
+                            <div class="text-start text-black">
+                                <h5 class="text-black mb-3 ms-3">채용공고</h5>
+                                <h4 class="text-black ms-3">[FLOURISH]대입입시 컨설턴트 모집</h4>
+                            </div>
+                            <div  class="text-start text-black">
+                                <p class="text-black ms-3">2024-08-01</p>
+                            </div>
+                            <div style="text-align-last: left;">
+                                <img src="${contextPath}/resources/static/img/main/flourist_logo.png" style="width: 100%;"/>
+                            </div>
+                        </div>
+                    </div>
                     <div class="col-lg-3 col-md-6 wow fadeInUp px-1" data-wow-delay="0.1s">
                         <div class="team-item rounded he_300 d-grid align-items-end">
                             <div class="text-start text-black">
@@ -183,7 +197,7 @@
                                 <h4 class="text-black ms-3">[CJ Logitics]Global SCM 컨설턴트 경력사원 모집</h4>
                             </div>
                             <div  class="text-start text-black">
-                                <p class="text-black ms-3">2023-09-14</p>
+                                <p class="text-black ms-3">2024-07-15</p>
                             </div>
                             <div style="text-align-last: left;">
                                 <img src="${contextPath}/resources/static/img/main/CJ_Logistics_thumnail.jpg" style="width: 100%;"/>
@@ -193,25 +207,11 @@
                     <div class="col-lg-3 col-md-6 wow fadeInUp px-1" data-wow-delay="0.1s">
                         <div class="team-item rounded he_300 d-grid align-items-end">
                             <div class="text-start text-black">
-                                <h5 class="text-black mb-3 ms-3">채용공고</h5>
-                                <h4 class="text-black ms-3">[SHINSEGAE I&C]SAP CO 모듈 컨설턴트(운영/개발) 부문 인재 모집</h4>
-                            </div>
-                            <div  class="text-start text-black">
-                                <p class="text-black ms-3">2023-09-13</p>
-                            </div>
-                            <div style="text-align-last: left;">
-                                <img src="${contextPath}/resources/static/img/main/shinsegaeIC_thumnail.jpg" style="width: 100%;"/>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-6 wow fadeInUp px-1" data-wow-delay="0.1s">
-                        <div class="team-item rounded he_300 d-grid align-items-end">
-                            <div class="text-start text-black">
                                 <h5 class="text-black mb-3 ms-3">공지사항</h5>
-                                <h4 class="text-black ms-3">2023년 KDTO 청년 인턴 직무 캠프 개최</h4>
+                                <h4 class="text-black ms-3">2024년 TECIS 청년 인턴 직무 캠프 개최</h4>
                             </div>
                             <div  class="text-start text-black">
-                                <p class="text-black ms-3">2023-08-31</p>
+                                <p class="text-black ms-3">2024-07-13</p>
                             </div>
                             <div style="text-align-last: left;">
                                 <img src="${contextPath}/resources/static/img/main/13_news3.png" style="width: 100%;"/>
@@ -225,7 +225,7 @@
                                 <h4 class="text-black ms-3">대학생 대상 '언더커버' 설명회 개최</h4>
                             </div>
                             <div  class="text-start text-black">
-                                <p class="text-black ms-3">2023-07-01</p>
+                                <p class="text-black ms-3">2024-07-01</p>
                             </div>
                             <div style="text-align-last: left;">
                                 <img src="${contextPath}/resources/static/img/main/13_news4.png" style="width: 100%;"/>
