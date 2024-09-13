@@ -13,7 +13,7 @@
 	            <div class="row justify-content-center align-items-center mb-5">
 	                <div class="col-lg-12 col-12">
 	                    <div class="topics-detail-block text-center wow fadeInUp mb-5">
-	                        <img src="${contextPath}/resources/static/img/logos/tecis logo-01.png" style="width: 300px; margin-right: 30px;" class="topics-detail-block-image img-fluid" style="-webkit-box-reflect: below -110px linear-gradient(transparent, rgba(0,0,0,0), rgba(0,0,0,0.4));">
+	                        <img src="${contextPath}/resources/static/img/logos/tecis logo_w-01.png" style="width: 300px; margin-right: 30px;" class="topics-detail-block-image img-fluid" style="-webkit-box-reflect: below -110px linear-gradient(transparent, rgba(0,0,0,0), rgba(0,0,0,0.4));">
 	                    </div>
 	                    <div class="d-flex justify-content-center mt-4 mb-4">
 	                        <hr class="about_main_hr"/>

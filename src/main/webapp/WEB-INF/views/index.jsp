@@ -186,7 +186,7 @@
                                 <p class="text-black ms-3">2024-09-11</p>
                             </div>
                             <div style="text-align-last: left;">
-                                <img src="${contextPath}/resources/static/img/main/flourist_logo.png" style="width: 100%;"/>
+                                <img src="${contextPath}/resources/static/img/main/CJ_Logistics_thumnail.jpg" style="width: 100%;"/>
                             </div>
                         </div>
                     </div>
@@ -194,10 +194,10 @@
                         <div class="team-item rounded he_300 d-grid align-items-end">
                             <div class="text-start text-black">
                                 <h5 class="text-black mb-3 ms-3">채용공고</h5>
-                                <h4 class="text-black ms-3">[CJ Logitics]Global SCM 컨설턴트 경력사원 모집</h4>
+                                <h4 class="text-black ms-3">[SHINSEGAE I&C]SAP CO 모듈 컨설턴트(운영/개발) 부문 인재 모집</h4>
                             </div>
                             <div  class="text-start text-black">
-                                <p class="text-black ms-3">2024-07-15</p>
+                                <p class="text-black ms-3">2024-09-10</p>
                             </div>
                             <div style="text-align-last: left;">
                                 <img src="${contextPath}/resources/static/img/main/shinsegaeIC_thumnail.jpg" style="width: 100%;"/>
