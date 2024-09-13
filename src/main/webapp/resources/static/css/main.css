@@ -235,7 +235,7 @@ header
 
 .header-area {
   position: absolute;
-  height: 90px;
+  /* height: 90px; */
   top: 0;
   left: 0;
   right: 0;
@@ -530,10 +530,6 @@ header
 
 .background-header .main-nav .menu-trigger.active span:after {
   background-color: #fff;
-}
-
-.header-area.header-sticky {
-  min-height: 90px;
 }
 
 .header-area .nav {

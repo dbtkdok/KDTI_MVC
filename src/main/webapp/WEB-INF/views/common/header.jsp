@@ -7,7 +7,7 @@
 <html>
 
 <body>
-   <div class="col-12">
+   <div class="col-12" style="position: fixed;">
        <nav class="main-nav">
            <!-- ***** Logo Start ***** -->
            <a href="/" class="logo">
