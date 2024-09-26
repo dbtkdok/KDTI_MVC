@@ -22,8 +22,8 @@
     <meta property="og:description" content="시립청년인재개발원">
     <meta property="og:image" content="${contextPath}/resources/static/img/logos/tecis logo-03.png">
     <meta property="og:url" content="http://tecis.co.kr">
-    <meta name="naver-site-verification" content="a4729b44c6b41656ec6f0cf1921d0d8e4f7c2424" />
-    <meta name="google-site-verification" content="HDQ400I2OnwVeu2M6aE32bm9Ah0bB6TQptmQ719Pzjk" />
+    <meta name="naver-site-verification" content="8dc5559258373ac69fef0ab113a4bd17285a3fb6" />
+    <meta name="google-site-verification" content="OxBBgoDrq0z26hMG2PEen9jKJZROpEIu6kvuK-FQqNc" />
     <!-- Favicon -->
 	<link href="${contextPath}/resources/static/img/logos/tecis logo-03.png" rel="icon">
 	
